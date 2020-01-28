@@ -1,0 +1,11 @@
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\WhatAmI\bin\Debug\netcoreapp3.0\WhatAmI.exe
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\WhatAmI\bin\Debug\netcoreapp3.0\WhatAmI.deps.json
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\WhatAmI\bin\Debug\netcoreapp3.0\WhatAmI.runtimeconfig.json
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\WhatAmI\bin\Debug\netcoreapp3.0\WhatAmI.runtimeconfig.dev.json
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\WhatAmI\bin\Debug\netcoreapp3.0\WhatAmI.dll
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\WhatAmI\bin\Debug\netcoreapp3.0\WhatAmI.pdb
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\WhatAmI\obj\Debug\netcoreapp3.0\WhatAmI.csprojAssemblyReference.cache
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\WhatAmI\obj\Debug\netcoreapp3.0\WhatAmI.AssemblyInfoInputs.cache
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\WhatAmI\obj\Debug\netcoreapp3.0\WhatAmI.AssemblyInfo.cs
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\WhatAmI\obj\Debug\netcoreapp3.0\WhatAmI.dll
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\WhatAmI\obj\Debug\netcoreapp3.0\WhatAmI.pdb

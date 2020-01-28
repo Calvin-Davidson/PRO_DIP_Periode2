@@ -1,0 +1,11 @@
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\SimpelCalculator\bin\Debug\netcoreapp3.0\SimpelCalculator.exe
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\SimpelCalculator\bin\Debug\netcoreapp3.0\SimpelCalculator.deps.json
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\SimpelCalculator\bin\Debug\netcoreapp3.0\SimpelCalculator.runtimeconfig.json
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\SimpelCalculator\bin\Debug\netcoreapp3.0\SimpelCalculator.runtimeconfig.dev.json
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\SimpelCalculator\bin\Debug\netcoreapp3.0\SimpelCalculator.dll
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\SimpelCalculator\bin\Debug\netcoreapp3.0\SimpelCalculator.pdb
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\SimpelCalculator\obj\Debug\netcoreapp3.0\SimpelCalculator.csprojAssemblyReference.cache
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\SimpelCalculator\obj\Debug\netcoreapp3.0\SimpelCalculator.AssemblyInfoInputs.cache
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\SimpelCalculator\obj\Debug\netcoreapp3.0\SimpelCalculator.AssemblyInfo.cs
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\SimpelCalculator\obj\Debug\netcoreapp3.0\SimpelCalculator.dll
+C:\Users\calvi\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\achievements\brons\SimpelCalculator\obj\Debug\netcoreapp3.0\SimpelCalculator.pdb

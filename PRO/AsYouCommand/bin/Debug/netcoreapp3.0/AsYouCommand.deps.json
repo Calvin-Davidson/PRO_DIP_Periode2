@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "AsYouCommand/1.0.0": {
+        "runtime": {
+          "AsYouCommand.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsYouCommand/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

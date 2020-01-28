@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "WhatAmI/1.0.0": {
+        "runtime": {
+          "WhatAmI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WhatAmI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
